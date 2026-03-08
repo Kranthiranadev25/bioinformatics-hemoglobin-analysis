@@ -1,0 +1,5 @@
+| Species | Identity | Coverage |
+| ------- | -------- | -------- |
+| Mouse   | 85%      | 100%     |
+| Cow     | 88%      | 100%     |
+| Chicken | 70%      | 100%     |
