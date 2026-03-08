@@ -1,0 +1,17 @@
+Title:Comparative Analysis of Hemoglobin Protein Across Species
+
+Introduction
+
+Hemoglobin is an oxygen-transport protein in red blood cells.
+
+Methods
+
+Sequences retrieved from NCBI and analyzed using BLAST and Clustal Omega.
+
+Results
+
+Mammalian hemoglobin sequences show high similarity.
+
+Conclusion
+
+Hemoglobin protein is highly conserved across species.
