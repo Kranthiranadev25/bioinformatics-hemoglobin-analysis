@@ -33,4 +33,3 @@ Example similarity results:
 | Human vs Cow | ~88% |
 | Human vs Chicken | ~70% |
 
-## Project Structure
